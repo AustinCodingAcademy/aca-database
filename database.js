@@ -1,10 +1,9 @@
 let fs = require("fs");
 
+exports.create = function(type,data,doneCallback){
 
-fs.readFile('./auctions.json', (err, data) => {
-    if (err) throw err;
-    
-    let object = JSON.parse(data);
-    let auction = object.alliance.auctions.find(a=>a.auc === 234079226);
-    console.timeEnd("file");
-  });
+}
+exports.find = function(type,id,doneCallback){
+
+}
+
