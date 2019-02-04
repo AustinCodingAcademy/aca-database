@@ -12,6 +12,10 @@ function messageReceived(req, res) {
     if(req.method === "GET" && req.url === "/users"){
       getUsers(req, res);
     }
+    else if(req.method === "GET" && req.url.indexOf("/users/") > -1){
+      let id = req.url.split("/");
+      
+    }
     else if(req.method === "POST" && req.url === "/users"){
         let body = [];
         req.on('data', (chunk) => {
