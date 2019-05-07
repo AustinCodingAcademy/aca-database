@@ -30,7 +30,7 @@
         "avatar": "https://pbs.twimg.com/profile_images/718881904834056192/WnMTb__R.jpg"
     }
 ],
-"produts": [
+"products": [
   {
     "id": 1,
     "name": "Body Luxuries Sweet Lavender Hand Sanitizer",
@@ -292,7 +292,7 @@
 ],
 "students":[
     {
-      "_id": "5c4f51031e0fe614ef85b806",
+      "id": 1,
       "index": 0,
       "guid": "c41f3d12-7607-4630-97d8-d66dba1015c1",
       "isActive": false,
@@ -349,7 +349,7 @@
       "favoriteFruit": "apple"
     },
     {
-      "_id": "5c4f5103781b5e4a87f751b0",
+        "id": 2,
       "index": 1,
       "guid": "f6d14239-c23a-4ef1-a6f5-6040e6924e81",
       "isActive": false,
@@ -406,7 +406,7 @@
       "favoriteFruit": "apple"
     },
     {
-      "_id": "5c4f51033b5c556dc08902a9",
+        "id": 3,
       "index": 2,
       "guid": "7d9391c7-7ac6-4f16-b9b1-ca6d2991e7bd",
       "isActive": true,
@@ -463,7 +463,7 @@
       "favoriteFruit": "apple"
     },
     {
-      "_id": "5c4f510346ab7c94c1cb7f42",
+        "id": 4,
       "index": 3,
       "guid": "7755cdfe-ae54-4e7c-81af-db384bfc71aa",
       "isActive": true,
@@ -520,7 +520,7 @@
       "favoriteFruit": "apple"
     },
     {
-      "_id": "5c4f5103a62cd65905a87fac",
+        "id": 5,
       "index": 4,
       "guid": "f03acf1c-4715-448e-9364-798decf54d02",
       "isActive": false,
@@ -577,7 +577,7 @@
       "favoriteFruit": "banana"
     },
     {
-      "_id": "5c4f510342bf615ce61f1c23",
+        "id": 6,
       "index": 5,
       "guid": "24a4df9f-14d6-4157-896f-482634d2891f",
       "isActive": false,
@@ -634,7 +634,7 @@
       "favoriteFruit": "strawberry"
     },
     {
-      "_id": "5c4f5103ebd2741eba610c65",
+        "id": 7,
       "index": 6,
       "guid": "b601b43e-7d36-446f-8f59-e96ddd5635b3",
       "isActive": true,
@@ -691,7 +691,7 @@
       "favoriteFruit": "banana"
     },
     {
-      "_id": "5c4f51034724380a5475a1f9",
+        "id": 8,
       "index": 7,
       "guid": "c1e1df51-dc8f-4826-8ee2-e87629dacf78",
       "isActive": false,
@@ -748,7 +748,7 @@
       "favoriteFruit": "apple"
     },
     {
-      "_id": "5c4f5103c6aac892a662d733",
+        "id": 9,
       "index": 8,
       "guid": "e38af2e8-3e02-40a1-9609-c9493ed6a9b1",
       "isActive": false,
