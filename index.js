@@ -22,7 +22,7 @@ function messageReceived(req, res) {
         }).on('end', () => {
           body = Buffer.concat(body).toString();
           let user = JSON.parse(body);
-          user._id = users.length + 1;
+          
          
           res.end();
         });
